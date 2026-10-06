@@ -1,0 +1,8 @@
+# Rust build output
+/target/
+
+# Test files made while trying the tool
+input.txt
+restored.txt
+*.tcmp
+*.out
